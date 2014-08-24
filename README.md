@@ -1,4 +1,4 @@
 GPS_ScienceFair_Code
 ====================
 
-MATLAB Code for GPS science fair
+Final MATLAB Code for GPS science project, year 2: http://sciencefairgpsathens.edublogs.org/. 
